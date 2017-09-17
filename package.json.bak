@@ -1,0 +1,6 @@
+{
+ "name":"jsonfile",
+ "dependencies":{
+	"jsonfile":"4.0.0"
+ }
+}
